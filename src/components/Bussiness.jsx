@@ -22,13 +22,11 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        You do the business, <br className="sm:block hidden" /> we’ll handle
-        the money.
+        Our cutting edge software empowers bettors <br className="sm:block hidden" /> to place the smartest props bets.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life by
-        building credit, earning rewards and saving money. But with hundreds
-        of credit cards on the market.
+        With the right research tools and a data-driven approach, you can improve your betting portfolio tremendously. 
+        We provide easy to read visuals and player trends all in one place. We also use a proprietary AI algorithm to provide daily player projections.
       </p>
 
       <Button styles={`mt-10`} />

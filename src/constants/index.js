@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Comprehensive Statistical Analysis",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "We provide daily player projections based on AI algorithms trained on 100,000 datapoints and historic player trends with several filters to enhance your research.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Easy to Use",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "No more having 10 tabs open at once. All relevant data is presented in one clean, accurate, and easy to navigate dashboard, allowing you to interpret trends, identify outliers, and observe thousands of statistical insights every day.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Optimal Bets",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "We provide the expected value for all bets based on our player projections and the lines on sportsbooks. We also provide parlay calculators. We help you place optimal bets.",
   },
 ];
 
